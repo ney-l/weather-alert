@@ -1,0 +1,2 @@
+# About
+This is a simple weather alert script that sends you a text notification if rain or snow is predicted in the next 12 hours. This script is implemented in Python using Open Weather Map API and Twilio API. 
